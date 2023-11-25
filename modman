@@ -1,0 +1,4 @@
+src/app/code/core/Mage/PaypalUk/                                app/code/core/Mage/PaypalUk/
+src/app/design/frontend/base/default/layout/paypaluk.xml        app/design/frontend/base/default/layout/paypaluk.xml
+src/app/etc/modules/Mage_PaypalUk.xml                           app/etc/modules/Mage_PaypalUk.xml
+src/app/locale/en_US/Mage_PaypalUk.csv                          app/locale/en_US/Mage_PaypalUk.csv
